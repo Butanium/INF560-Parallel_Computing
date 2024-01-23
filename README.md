@@ -1,0 +1,1 @@
+Lab session made as part of the course "INF560 Parallel Computing" at École Polytechnique.
